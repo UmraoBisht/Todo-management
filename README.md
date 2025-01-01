@@ -16,8 +16,8 @@ Make sure you have the following installed on your machine:
    If your project is hosted on GitHub or another version control system, clone it to your local machine:
 
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone [<repository-url>](https://github.com/UmraoBisht/Todo-management.git)
+   cd Todo-management
    ```
 
 2. **Install Dependencies**
