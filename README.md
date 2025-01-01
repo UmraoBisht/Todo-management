@@ -1,6 +1,7 @@
 # Running a Next.js Project
 
 This guide outlines the steps to set up and run a Next.js project locally.
+Deployed link : https://todo-management-five.vercel.app/
 
 ## Prerequisites
 
