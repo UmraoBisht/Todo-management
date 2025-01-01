@@ -13,7 +13,7 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the Repository**
 
-   If your project is hosted on GitHub or another version control system, clone it to your local machine:
+   clone it to your local machine:
 
    ```bash
    git clone https://github.com/UmraoBisht/Todo-management.git
